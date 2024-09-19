@@ -13,8 +13,8 @@ StarFinder は、GitHub のリポジトリの中で、指定した日付範囲�
 
 1. リポジトリをクローンします。
 ```bash
-git clone https://github.com/kazumal/star-ranker.git
-cd star-ranker
+git clone https://github.com/kazumal/star-finder.git
+cd star-finder
    ```
 2. 必要な依存ライブラリをインストールします。
 
